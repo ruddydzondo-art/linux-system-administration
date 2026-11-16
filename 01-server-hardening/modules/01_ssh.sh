@@ -2,7 +2,7 @@
 
 SSH_MAIN_CONFIG="/etc/ssh/sshd_config"
 SSH_BACKUP="/etc/ssh/sshd_config.bak"
-SSH_DROPIN="/etc/ssh/sshd_config.d/99-hardening.conf"
+SSH_DROPIN="/etc/ssh/sshd_config.d/00-hardening.conf"
 
 if [[ ! -f "$SSH_BACKUP" ]]; then
     cp "$SSH_MAIN_CONFIG" "$SSH_BACKUP"
