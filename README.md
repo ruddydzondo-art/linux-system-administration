@@ -5,7 +5,7 @@ Diplômé en informatique, je me spécialise dans l'administration, la sécurisa
 
 ---
 
-### 🛠️ Socle Technique & Environnement de Travail
+###  Socle Technique & Environnement de Travail
 
 * **Systèmes d'exploitation :** Red Hat Enterprise Linux (RHEL 9), Rocky Linux, Debian/Ubuntu
 * **Administration & Services :** `systemd`, gestion des utilisateurs et permissions (`chmod`, `chown`, `sudoers`), gestion des paquets (`dnf`, `rpm`)
@@ -14,6 +14,6 @@ Diplômé en informatique, je me spécialise dans l'administration, la sécurisa
 * **Virtualisation & Versioning :** VMware Workstation, Git / GitHub
 
 ---
-### 📫 Me contacter
+###  Me contacter
 * **LinkedIn :** www.linkedin.com/in/ruddy-dzondo-3a682a266
 * **Email :** ruddydzondo@gmail.com
