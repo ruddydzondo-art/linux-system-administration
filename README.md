@@ -1,7 +1,7 @@
 ### Bonjour, je suis Ruddy DZONDO
 **Administrateur Système Linux Junior | En préparation certification RHCSA (Red Hat)**
 
-Diplômé en informatique, je me spécialise dans l'administration, la sécurisation et l'automatisation des environnements **Red Hat / Rocky Linux**. Mon approche repose sur un principe simple : **construire des compétences opérationnelles par la pratique, automatiser ce qui est répétitif et documenter chaque apprentissage.**
+Diplômé en ingénierie réseau, système et cybersécrité , je me spécialise dans l'administration, la sécurisation et l'automatisation des environnements **Linux**. Mon approche repose sur un principe simple : **construire des compétences opérationnelles par la pratique, automatiser ce qui est répétitif et documenter chaque apprentissage.**
 
 ---
 
